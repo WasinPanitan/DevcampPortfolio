@@ -29,7 +29,7 @@ puts "5 skill created "
         subtitle: "service",
         body: "Go Go HELLO WORLD",
         main_image: "http://place-hold.it/600x400",
-        thumb_image: "http://place-hold.it/200x100"
+        thumb_image: "http://place-hold.it/300x200"
     )
 end
 
